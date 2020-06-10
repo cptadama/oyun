@@ -1,0 +1,10 @@
+C:\Users\Rauf Giray\source\repos\corona\corona\bin\Debug\corona.exe.config
+C:\Users\Rauf Giray\source\repos\corona\corona\bin\Debug\corona.exe
+C:\Users\Rauf Giray\source\repos\corona\corona\bin\Debug\corona.pdb
+C:\Users\Rauf Giray\source\repos\corona\corona\obj\Debug\corona.csprojAssemblyReference.cache
+C:\Users\Rauf Giray\source\repos\corona\corona\obj\Debug\corona.Form1.resources
+C:\Users\Rauf Giray\source\repos\corona\corona\obj\Debug\corona.Properties.Resources.resources
+C:\Users\Rauf Giray\source\repos\corona\corona\obj\Debug\corona.csproj.GenerateResource.cache
+C:\Users\Rauf Giray\source\repos\corona\corona\obj\Debug\corona.csproj.CoreCompileInputs.cache
+C:\Users\Rauf Giray\source\repos\corona\corona\obj\Debug\corona.exe
+C:\Users\Rauf Giray\source\repos\corona\corona\obj\Debug\corona.pdb
